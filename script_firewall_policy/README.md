@@ -4,7 +4,7 @@ builtins.
 signal.
 os.
 
-Try: pip install future.
+Try: pip install future
 
 ### 2. Create a file with id policies ###
 FGT01 \# c v.

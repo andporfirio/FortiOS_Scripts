@@ -1,8 +1,11 @@
 ### 1. Necessary modules ###
-future.
-builtins.
-signal.
-os.
+future
+
+builtins
+
+signal
+
+os
 
 Try: pip install future
 

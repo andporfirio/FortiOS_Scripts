@@ -1,31 +1,20 @@
 ### 1. Necessary modules ###
-future
-
-builtins
-
-signal
-
-os
+future.
+builtins.
+signal.
+os.
 
 Try: pip install future
 
 ### 2. Create a file with id policies ###
-FGT01 \# c v
-
+FGT01 # c v
 FGT01 (vdom) \# edit Office
-
 FGT01 (Office) \# config firewall policy
-
 FGT01 (policy) \# edit ?
-
 policyid    Policy ID. (0-4294967294)
-
 1
-
 1638
-
 1497
-
 9120
 1677
 1680

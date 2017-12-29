@@ -1,12 +1,12 @@
 ### 1. Necessary modules ###
-<code>
-future
-builtins
+
+<b>future</b>>
+<b>builtins</b>
 signal
 os
 
 Try: pip install future
-</code>
+
 ### 2. Create a file with id policies ###
 FGT01 # c v
 FGT01 (vdom) \# edit Office

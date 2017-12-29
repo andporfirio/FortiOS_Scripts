@@ -42,6 +42,7 @@ set logtraffic utm
 set logtraffic disable
 set status disable
 set status enable
+Command to be executabled: set status disable
 ```
 Command to be executabled: set status disable.
 

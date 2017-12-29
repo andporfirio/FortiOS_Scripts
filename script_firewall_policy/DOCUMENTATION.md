@@ -44,7 +44,8 @@ set status disable
 set status enable
 Command to be executabled: set status disable
 ```
-Command to be executabled: set status disable.
+
+That you create a file called script_VDOM_name.conf
 
 ### 4. Example of created file ###
 ```
